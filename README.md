@@ -46,7 +46,7 @@ npm run dev
 
 ## 🌐 Deployment
 
-This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https://qasimrokeeb-two-way-binding-form.vercel.app/)
+This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https://two-way-binding-form.vercel.app/)
 
 ---
 
